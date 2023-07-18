@@ -1,0 +1,11 @@
+# salary = 1500
+# #every month + 100
+# payraise = 100
+# new_salary = salary + payraise*5
+# print(new_salary)
+
+
+user_name = input("whats your name: ")
+surname = input("whats your surname: ")
+age = input("whats your age: ")
+print( "man tqva rom mas hqvia: " " + user_name , "man tqva rom misi gvaria:" + surname )
